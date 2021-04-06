@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {		
 	//initialization
-	vector<int> v ;
+	vector<int> v ; // Declaration
 
 	//creating vector of 15 elements and initialize with all 8s
 	//using assign
